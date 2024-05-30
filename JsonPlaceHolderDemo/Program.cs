@@ -24,6 +24,7 @@ namespace JsonPlaceHolderDemo{
             if(response.IsSuccessStatusCode){
                 var responseContent = response.Content.ReadAsStringAsync().Result;
                 System.Console.WriteLine($"responseContent: {responseContent}.");
+                var postResponse = JsonSerializer.Deserialize<CreateNewPostResponse>(responseContent);
             }
             else{
                 System.Console.WriteLine($"Error: {response.StatusCode}");
