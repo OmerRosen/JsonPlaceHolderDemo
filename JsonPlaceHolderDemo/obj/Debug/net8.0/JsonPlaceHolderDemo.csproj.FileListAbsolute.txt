@@ -1,0 +1,14 @@
+C:\Dropbox\Coding Lessons\C# Projects\JsonPlaceHolderDemo\JsonPlaceHolderDemo\JsonPlaceHolderDemo\bin\Debug\net8.0\JsonPlaceHolderDemo.exe
+C:\Dropbox\Coding Lessons\C# Projects\JsonPlaceHolderDemo\JsonPlaceHolderDemo\JsonPlaceHolderDemo\bin\Debug\net8.0\JsonPlaceHolderDemo.deps.json
+C:\Dropbox\Coding Lessons\C# Projects\JsonPlaceHolderDemo\JsonPlaceHolderDemo\JsonPlaceHolderDemo\bin\Debug\net8.0\JsonPlaceHolderDemo.runtimeconfig.json
+C:\Dropbox\Coding Lessons\C# Projects\JsonPlaceHolderDemo\JsonPlaceHolderDemo\JsonPlaceHolderDemo\bin\Debug\net8.0\JsonPlaceHolderDemo.dll
+C:\Dropbox\Coding Lessons\C# Projects\JsonPlaceHolderDemo\JsonPlaceHolderDemo\JsonPlaceHolderDemo\bin\Debug\net8.0\JsonPlaceHolderDemo.pdb
+C:\Dropbox\Coding Lessons\C# Projects\JsonPlaceHolderDemo\JsonPlaceHolderDemo\JsonPlaceHolderDemo\obj\Debug\net8.0\JsonPlaceHolderDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dropbox\Coding Lessons\C# Projects\JsonPlaceHolderDemo\JsonPlaceHolderDemo\JsonPlaceHolderDemo\obj\Debug\net8.0\JsonPlaceHolderDemo.AssemblyInfoInputs.cache
+C:\Dropbox\Coding Lessons\C# Projects\JsonPlaceHolderDemo\JsonPlaceHolderDemo\JsonPlaceHolderDemo\obj\Debug\net8.0\JsonPlaceHolderDemo.AssemblyInfo.cs
+C:\Dropbox\Coding Lessons\C# Projects\JsonPlaceHolderDemo\JsonPlaceHolderDemo\JsonPlaceHolderDemo\obj\Debug\net8.0\JsonPlaceHolderDemo.csproj.CoreCompileInputs.cache
+C:\Dropbox\Coding Lessons\C# Projects\JsonPlaceHolderDemo\JsonPlaceHolderDemo\JsonPlaceHolderDemo\obj\Debug\net8.0\JsonPlaceHolderDemo.dll
+C:\Dropbox\Coding Lessons\C# Projects\JsonPlaceHolderDemo\JsonPlaceHolderDemo\JsonPlaceHolderDemo\obj\Debug\net8.0\refint\JsonPlaceHolderDemo.dll
+C:\Dropbox\Coding Lessons\C# Projects\JsonPlaceHolderDemo\JsonPlaceHolderDemo\JsonPlaceHolderDemo\obj\Debug\net8.0\JsonPlaceHolderDemo.pdb
+C:\Dropbox\Coding Lessons\C# Projects\JsonPlaceHolderDemo\JsonPlaceHolderDemo\JsonPlaceHolderDemo\obj\Debug\net8.0\JsonPlaceHolderDemo.genruntimeconfig.cache
+C:\Dropbox\Coding Lessons\C# Projects\JsonPlaceHolderDemo\JsonPlaceHolderDemo\JsonPlaceHolderDemo\obj\Debug\net8.0\ref\JsonPlaceHolderDemo.dll
