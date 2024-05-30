@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = JsonPlaceHolderDemo
-build_property.ProjectDir = C:\Dropbox\Coding Lessons\C# Projects\JsonPlaceHolderDemo\JsonPlaceHolderDemo\JsonPlaceHolderDemo\
+build_property.ProjectDir = c:\Dropbox\Coding Lessons\C# Projects\JsonPlaceHolderDemo\JsonPlaceHolderDemo\JsonPlaceHolderDemo\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
